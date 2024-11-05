@@ -1,6 +1,6 @@
 {
   "homepage": ".",
-  "name": "v-music",
+  "name": "streamusic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
